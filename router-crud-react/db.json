@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "precio": "200",
+      "nombrePlatillo": "Cheescake",
+      "categoria": "postres",
+      "id": "1"
+    },
+    {
+      "nombrePlatillo": "Big Eye",
+      "precio": "300",
+      "categoria": "cortes",
+      "id": "2"
+    },
+    {
+      "nombrePlatillo": "qwerth",
+      "precio": "123456",
+      "categoria": "postre",
+      "id": "L2ztTIY"
+    },
+    {
+      "nombrePlatillo": "chris",
+      "precio": "12",
+      "categoria": "postre",
+      "id": "I1ux6ju"
+    },
+    {
+      "nombrePlatillo": "jaja",
+      "precio": "12",
+      "categoria": "bebida",
+      "id": "P4pu58y"
+    },
+    {
+      "nombrePlatillo": "roger",
+      "precio": "1234",
+      "categoria": "postre",
+      "id": "ndaOHCN"
+    },
+    {
+      "nombrePlatillo": "cada",
+      "precio": "1234",
+      "categoria": "cortes",
+      "id": "T1MjMhL"
+    }
+  ]
+}
