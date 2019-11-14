@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo redux",
+      "precio": "30"
+    },
+    {
+      "id": 2,
+      "nombre": "Aprendiendo hooks 2",
+      "precio": "50"
+    },
+    {
+      "id": 5,
+      "nombre": "prueba",
+      "precio": "19"
+    },
+    {
+      "nombre": "prueba 2",
+      "precio": "14",
+      "id": 6
+    },
+    {
+      "nombre": "prueba 3",
+      "precio": "1",
+      "id": 7
+    }
+  ]
+}
